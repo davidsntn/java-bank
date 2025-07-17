@@ -1,4 +1,4 @@
-# Projeto de Back-end para Aplicativo Bancário
+# Projeto Back-end para Aplicativo Bancário
 
 ## Descrição do seu projeto
 
